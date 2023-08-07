@@ -1,10 +1,10 @@
 #回环
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/RealLaptop/Stastic_Proxypool/main/long
+    url: https://raw.githubusercontent.com/Jeamcc/CollectTG/main/long
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/RealLaptop/Stastic_Proxypool/main/sub.yaml
+    url: https://raw.githubusercontent.com/Jeamcc/CollectTG/main/sub.yaml
 #订阅链接
 - type: clash
   options:
