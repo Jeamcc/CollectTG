@@ -6,5 +6,5 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/RealLaptop/Stastic_Proxypool/main/sub.yaml
+    url: # https://raw.githubusercontent.com/RealLaptop/Stastic_Proxypool/main/sub.yaml
 
