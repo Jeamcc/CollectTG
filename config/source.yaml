@@ -6,155 +6,151 @@
   options:
     url: https://raw.githubusercontent.com/Jeamcc/CollectTG/main/sub.yaml
 #订阅链接
-- type: clash
-  options:
-    url:  https://proxy.huwo.club/clash.yaml
-- type: clash
-  options:
-    url:  http://39.106.12.141:8081/clash/proxies?type=all
-- type: clash
-  options:
-    url:   https://free.jingfu.cf/clash/proxies?type=all
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
-- type: subscribe
-  options:
-    url: https://getafreenode.com/subscribe/?uuid=A608E7CD-A9A7-F018-F9FE-4D6CF63D2A4B
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/o/allnode.txt
-- type: subscribe
-  options:
-    url: https://freefq.neocities.org/free.txt
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/bingoYB/node_processing/main/dist/all.yaml
-- type: subscribe
-  options:
-    url: https://sub.nicevpn.top/long
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-- type: clash
-  options:
-    url: https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBZ3N4NFpya1E2Um9jdmVFNHJZXzVXakRkYzA_ZT1GRW1FcmE
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp
+# - type: clash
+#   options:
+#     url:  https://proxy.huwo.club/clash.yaml
+# - type: clash
+#   options:
+#     url:  http://39.106.12.141:8081/clash/proxies?type=all
+# - type: clash
+#   options:
+#     url:   https://free.jingfu.cf/clash/proxies?type=all
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
+# - type: subscribe
+#   options:
+#     url: https://getafreenode.com/subscribe/?uuid=A608E7CD-A9A7-F018-F9FE-4D6CF63D2A4B
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/o/allnode.txt
+# - type: subscribe
+#   options:
+#     url: https://freefq.neocities.org/free.txt
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
+# - type: clash
+#   options:
+#     url: https://raw.githubusercontent.com/bingoYB/node_processing/main/dist/all.yaml
+# - type: subscribe
+#   options:
+#     url: https://sub.nicevpn.top/long
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+# - type: clash
+#   options:
+#     url: https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+# - type: clash
+#   options:
+#     url: https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBZ3N4NFpya1E2Um9jdmVFNHJZXzVXakRkYzA_ZT1GRW1FcmE
+# - type: clash
+#   options:
+#     url: https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp
 # 订阅列表
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/LITTLESITE/Mux2sub/main/sub_list
+# - type: webfuzzsub
+#   options:
+#     url: https://raw.githubusercontent.com/du5/free/master/sub.list
+# - type: webfuzzsub
+#   options:
+#     url: https://raw.githubusercontent.com/LITTLESITE/Mux2sub/main/sub_list
 # tg频道抓取
-- type: tgchannel
-  options:
-    channel: ssrList
-    num: 900
-- type: tgchannel
-  options:
-    channel: asjdxm
-    num: 900
+# - type: tgchannel
+#   options:
+#     channel: ssrList
+#     num: 100
+# - type: tgchannel
+#   options:
+#     channel: asjdxm
+#     num: 100
 - type: tgchannel
   options:
     channel: dingyue_Center
-    num: 900
-- type: tgchannel
-  options:
-    channel: juzibaipiao
-    num: 900
-- type: tgchannel
-  options:
-    channel: baipiaoi
-    num: 900
-- type: tgchannel
-  options:
-    channel: helloworld_1024
-    num: 900
+    num: 100
+
 - type: tgchannel
   options:
     channel: ZDYZ2
-    num: 900
-- type: tgchannel
-  options:
-    channel: yangmaoxiaofendui
-    num: 900
-- type: tgchannel
-  options:
-    channel: app_jiedian
-    num: 900
+    num: 100
+
 - type: tgchannel
   options:
     channel: aifenxiang2020
-    num: 900
-- type: tgchannel
-  options:
-    channel: Zjzty2451
-    num: 900
+    num: 50
+
 - type: tgchannel
   options:
     channel: airproxies
-    num: 900
+    num: 100
+
 - type: tgchannel
   options:
     channel: kxswa
-    num: 900
+    num: 100
+
 - type: tgchannel
   options:
     channel: tizi1131
-    num: 900
+    num: 100
+
 - type: tgchannel
   options:
-    channel: heinuhome
-    num: 900
+    channel: wxdy666
+    num: 100
+
 - type: tgchannel
   options:
-    channel: masco899
-    num: 900
+    channel: souqun4414
+    num: 50
+
 - type: tgchannel
   options:
-    channel: bpzx2
-    num: 900
+    channel: hkaa0
+    num: 100
+
+- type: tgchannel
+  options:
+    channel: FProxies
+    num: 50
+
+
+
+
+
+
+
 #网页抓取
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
-- type: web-fanqiangdang
-  options:
-    url: https://v2ray.fanqiangdang.com
-- type: web-fanqiangdang
-  options:
-    url: https://shadowsocksr.fanqiangdang.com
-- type: web-fanqiangdang
-  options:
-    url: https://shadowsocks.fanqiangdang.com
-- type: web-fanqiangdang
-  options:
-    url: https://sub.fanqiangdang.com
-- type: web-fanqiangdang
-  options:
-    url: https://huiguo.fanqiangdang.com
-- type: webfuzz
-  options:
-    url: https://github.com/Fukki-Z/nodefree
-- type: webfuzz
-  options:
-    url: https://zfjvpn.gitbook.io/123/
-- type: webfuzz
-  options:
-    url: https://github.com/sunshinehome/zidong
+# - type: webfuzz
+#   options:
+#     url: https://merlinblog.xyz/wiki/freess.html
+# - type: web-fanqiangdang
+#   options:
+#     url: https://v2ray.fanqiangdang.com
+# - type: web-fanqiangdang
+#   options:
+#     url: https://shadowsocksr.fanqiangdang.com
+# - type: web-fanqiangdang
+#   options:
+#     url: https://shadowsocks.fanqiangdang.com
+# - type: web-fanqiangdang
+#   options:
+#     url: https://sub.fanqiangdang.com
+# - type: web-fanqiangdang
+#   options:
+#     url: https://huiguo.fanqiangdang.com
+# - type: webfuzz
+#   options:
+#     url: https://github.com/Fukki-Z/nodefree
+# - type: webfuzz
+#   options:
+#     url: https://zfjvpn.gitbook.io/123/
+# - type: webfuzz
+#   options:
+#     url: https://github.com/sunshinehome/zidong
