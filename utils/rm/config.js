@@ -1,4 +1,4 @@
 module.exports={
-    nodeAddName:'|TG@BPXD666',
+    nodeAddName:'',
     dnsServers:['119.29.29.29','8.8.8.8']
 }
