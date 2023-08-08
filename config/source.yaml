@@ -76,56 +76,55 @@
 
 
 
-# - type: tgchannel
-#   options:
-#     channel: dingyue_Center
-#     num: 100
+- type: tgchannel
+  options:
+    channel: dingyue_Center
+    num: 400
 
-# - type: tgchannel
-#   options:
-#     channel: ZDYZ2
-#     num: 100
+- type: tgchannel
+  options:
+    channel: ZDYZ2
+    num: 400
 
-# - type: tgchannel
-#   options:
-#     channel: aifenxiang2020
-#     num: 50
+- type: tgchannel
+  options:
+    channel: aifenxiang2020
+    num: 200
 
 - type: tgchannel
   options:
     channel: airproxies
-    # num: 100
-    num: 1
+    num: 400
 
-# - type: tgchannel
-#   options:
-#     channel: kxswa
-#     num: 100
+- type: tgchannel
+  options:
+    channel: kxswa
+    num: 1200
 
-# - type: tgchannel
-#   options:
-#     channel: tizi1131
-#     num: 100
+- type: tgchannel
+  options:
+    channel: tizi1131
+    num: 400
 
-# - type: tgchannel
-#   options:
-#     channel: wxdy666
-#     num: 100
+- type: tgchannel
+  options:
+    channel: wxdy666
+    num: 200
 
-# - type: tgchannel
-#   options:
-#     channel: souqun4414
-#     num: 50
+- type: tgchannel
+  options:
+    channel: souqun4414
+    num: 300
 
-# - type: tgchannel
-#   options:
-#     channel: hkaa0
-#     num: 100
+- type: tgchannel
+  options:
+    channel: hkaa0
+    num: 300
 
-# - type: tgchannel
-#   options:
-#     channel: FProxies
-#     num: 50
+- type: tgchannel
+  options:
+    channel: FProxies
+    num: 100
 
 
 
