@@ -95,7 +95,7 @@
   options:
     channel: airproxies
     # num: 100
-    num: 5
+    num: 1
 
 # - type: tgchannel
 #   options:
