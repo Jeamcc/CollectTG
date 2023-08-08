@@ -126,6 +126,22 @@
     channel: FProxies
     num: 100
 
+- type: tgchannel
+  options:
+    channel: freev2rays
+    num: 100
+
+- type: tgchannel
+  options:
+    channel: yaney_01
+    num: 100
+
+- type: tgchannel
+  options:
+    channel: mftizi
+    num: 100
+
+
 
 
 
